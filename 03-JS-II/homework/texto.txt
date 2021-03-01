@@ -1,0 +1,8 @@
+for está para los bucles, este evalua tres elementos, que son la variable, la expresion que condiciona y los incrementos o decrementos o como se vera afectado este.
+
+
+&& es un operador que evalúa ambas expresiones y significa AND o Y. Si las dos expresiones son verdaderas devuelve true, si una o ambas son falsas devuelve false.
+
+|| este significa OR. Si una de las expresiones es verdadero o ambas devuelve true. Y si ambas son falsas devuelve false
+
+! este signiofica NO. Y este al ponerlo por ejemplo de un false asi "!false", sería lo contrario
