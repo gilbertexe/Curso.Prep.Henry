@@ -1,0 +1,4 @@
+Cuando hablamos de un ARRAY nos referimos a una cadena de elementos 
+dentro de una matriz. 
+En ellos pueden haber varios tipos de datos que podemos agregar, modificar,
+sustituir o eliminar.
